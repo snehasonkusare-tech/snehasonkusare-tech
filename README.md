@@ -9,10 +9,15 @@
 
 # Hi, I'm Sneha Sonkusare 👋
 
-AI Engineer | Data Scientist | MLOps Engineer
+Software Engineer | Distributed Systems | Backend & AI Engineering
 
-Building and deploying **Inference Governance and Sovereign AI** platforms. I'm focused on fine-tuning LLMs and SLMs and building GenAI systems that actually run in production — not just in notebooks. My work spans parameter-efficient fine-tuning (LoRA, QLoRA, Unsloth), GPU-accelerated inference pipelines, RAG, and agentic AI architectures, deployed with Docker, Kubernetes, and full MLOps tooling. I'm also an open-source contributor to **PyTorch**.
+I build scalable, high-performance backend systems, event-driven architectures, and AI-powered applications that solve real-world problems.
 
+My experience spans Java, Python, Kafka, Spring Boot, Kubernetes, AWS, Azure, and Terraform, with a focus on distributed workflows, microservices, cloud infrastructure, and system reliability.
+
+I'm passionate about Generative AI, LLMs, RAG, automation, and performance optimization, turning complex engineering challenges into reliable, production-ready solutions.
+
+🚀 Building scalable systems. Exploring AI. Always learning.
 ---
 
 ## Tech Stack
